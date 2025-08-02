@@ -110,8 +110,6 @@ public class Serie {
         this.sinopse = sinopse;
     }
 
-
-
     @Override
     public String toString() {
         return "genero=" + genero +
