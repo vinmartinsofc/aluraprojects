@@ -7,7 +7,7 @@ public class GerenciadorDeCupons {
 
     public GerenciadorDeCupons() {
 
-        this.cupons = new HashMap();
+        this.cupons = new HashMap<>();
 
         cupons.put("cab11", 10.0);
         cupons.put("cab22",12.0);

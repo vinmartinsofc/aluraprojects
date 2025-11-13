@@ -11,9 +11,7 @@ public class TestandoPerformance {
             colecao.add("Item: " +i);
         }
 
-
         long inicio = System.currentTimeMillis();
-
 
         for (int i = 0; i < 100000; i++) {
             colecao.contains("Item: " +i);
