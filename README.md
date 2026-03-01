@@ -1,4 +1,4 @@
-\# Projetos Oracle Next Education (G8)
+# Projetos Oracle Next Education (G8)
 
 
 
@@ -6,31 +6,31 @@ Uma coleção dos projetos desenvolvidos durante minha participação no program
 
 
 
-\## ✨ Visão geral
+## ✨ Visão geral
 
 
 
-\- \*\*Objetivo:\*\* registrar a evolução técnica e demonstrar habilidades práticas adquiridas durante o curso.
+- **Objetivo:** registrar a evolução técnica e demonstrar habilidades práticas adquiridas durante o curso.
 
-\- \*\*Status:\*\* projetos implementados seguindo as aulas; prontos para melhoria e personalização.
-
-
-
-\## 🧭 Tecnologias e conceitos praticados
+- **Status:** projetos implementados seguindo as aulas; prontos para melhoria e personalização.
 
 
 
-\- Lógica de programação
+## 🧭 Tecnologias e conceitos praticados
 
-\- Programação Orientada a Objetos (POO)
 
-\- Java
 
-\- Bancos de dados (modelagem e consultas)
+- Lógica de programação
 
-\- Consumo de APIs
+- Programação Orientada a Objetos (POO)
 
-\- Organização e estruturação de projetos
+- Java
+
+- Bancos de dados (modelagem e consultas)
+
+- Consumo de APIs
+
+- Organização e estruturação de projetos
 
 
 
