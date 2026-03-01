@@ -1,0 +1,1 @@
+alurasdevopsprojects/devOps/*.pdf
